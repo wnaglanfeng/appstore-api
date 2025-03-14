@@ -1,0 +1,1187 @@
+{
+    "type": "search_related_contents",
+    "url": "https://api.diandian.com/pc/app/v2/word/search_related_contents?market_type=1&country_id=75&word=%E5%BE%AE%E4%BF%A1&k=FVoT5b6d5L6RXhASUEkUVRMKSUMAA09QAksPVxReEBJQV1JfCUQfBFIbCh1FH0VbLwRTWBgMQQl5UB8YQlEXDFc%3D",
+    "apps": [
+        {
+            "id": "njzumu076pr6ghp",
+            "market_id": 1,
+            "app_id": 414478124,
+            "name": "微信",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/25/9c/f7259cf3-41b2-61e5-3655-80b2cc1ae061/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-0-85-220.png/1024x1024.png",
+            "content_ratings": "12+",
+            "developer": {},
+            "release_time": 1295539200,
+            "last_release_time": 1737388800,
+            "version": "8.0.56",
+            "bundle_id": "com.tencent.xin",
+            "title": "",
+            "genre_id": 137,
+            "genre_ids": [
+                137,
+                136
+            ],
+            "category_id": 1,
+            "device_families": [
+                "watch",
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.2,
+            "rating_count": 7536891,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                952772,
+                281175,
+                403263,
+                682531,
+                5217150
+            ],
+            "top_in_apps": [
+                {
+                    "name": "微信豆7个",
+                    "price": "¥1.00",
+                    "description": "用于微信内购买微信豆",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "21 WeBeans",
+                    "price": "¥3.00",
+                    "description": "To purchase WeBeans",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "微信豆126个",
+                    "price": "¥18.00",
+                    "description": "用于微信内购买微信豆",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "微信豆56个",
+                    "price": "¥8.00",
+                    "description": "用于微信内购买微信豆",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "微信豆42个",
+                    "price": "¥6.00",
+                    "description": "用於微信内購買微信豆",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "微信豆350个",
+                    "price": "¥50.00",
+                    "description": "用于微信内购买微信豆",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "公众号1元内容",
+                    "price": "¥1.00",
+                    "description": "用于购买某个公众号的1元付费内容",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "微信豆896个",
+                    "price": "¥128.00",
+                    "description": "用于微信内购买微信豆",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "公众号3元内容",
+                    "price": "¥3.00",
+                    "description": "用于购买某个公众号的3元付费内容",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "微信豆3626个",
+                    "price": "¥518.00",
+                    "description": "用于微信内购买微信豆",
+                    "is_subscription": 0
+                }
+            ],
+            "languages": [
+                "俄文",
+                "印度尼西亚文",
+                "土耳其文",
+                "德文",
+                "意大利文",
+                "日文",
+                "法语",
+                "泰文",
+                "简体中文",
+                "繁体中文",
+                "英语",
+                "葡萄牙文",
+                "西班牙文",
+                "越南文",
+                "阿拉伯文",
+                "韩文",
+                "马来文"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 137,
+                    "name": "社交",
+                    "category_id": 1
+                },
+                {
+                    "id": 136,
+                    "name": "效率",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 137,
+                "name": "社交",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "nd2u6udegmemeid",
+            "market_id": 1,
+            "app_id": 1142110895,
+            "name": "抖音",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/c6/c5/98c6c5b3-026f-c54a-7775-05cc1367ccd2/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024.png",
+            "content_ratings": "17+",
+            "developer": {},
+            "release_time": 1474819200,
+            "last_release_time": 1741536000,
+            "version": "33.4.0",
+            "bundle_id": "com.ss.iphone.ugc.Aweme",
+            "title": "记录美好生活",
+            "genre_id": 134,
+            "genre_ids": [
+                134
+            ],
+            "category_id": 1,
+            "device_families": [
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.9,
+            "rating_count": 51783812,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                856248,
+                234845,
+                352229,
+                1053060,
+                49287430
+            ],
+            "top_in_apps": [
+                {
+                    "name": "7钻石（抖币） ",
+                    "price": "¥1.00",
+                    "description": "7钻石（抖币）  ",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "42钻石（抖币）",
+                    "price": "¥6.00",
+                    "description": "购买后获得42钻石（抖币）",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "210钻石（抖币）",
+                    "price": "¥30.00",
+                    "description": "抖币套餐-210钻石（抖币）",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "686钻石（抖币）",
+                    "price": "¥98.00",
+                    "description": "抖币套餐-686钻石（抖币）",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "充值DOU+98元",
+                    "price": "¥98.00",
+                    "description": "充值DOU+98元",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "充值DOU+30元",
+                    "price": "¥30.00",
+                    "description": "充值DOU+30元",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "2086钻石（抖币）",
+                    "price": "¥298.00",
+                    "description": "抖币套餐-2086钻石（抖币）",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "充值DOU+68元",
+                    "price": "¥68.00",
+                    "description": "充值DOU+68元",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "充值DOU+50元",
+                    "price": "¥50.00",
+                    "description": "充值DOU+50元",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "98钻石（抖币）",
+                    "price": "¥14.00",
+                    "description": "98钻石（抖币）",
+                    "is_subscription": 0
+                }
+            ],
+            "languages": [
+                "简体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 134,
+                    "name": "娱乐",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 134,
+                "name": "娱乐",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "ym0u2ulzwg787b5",
+            "market_id": 1,
+            "app_id": 461703208,
+            "name": "高德地图-高德打车,导航公交地铁出行",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/22/7b/bb227b6f-82e7-121f-ff16-e213c6ec2971/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/1024x1024.png",
+            "content_ratings": "4+",
+            "developer": {},
+            "release_time": 1315411200,
+            "last_release_time": 1741708800,
+            "version": "15.11.1",
+            "bundle_id": "com.autonavi.amap",
+            "title": "低价预订酒店门票,吃住游用高德指南",
+            "genre_id": 149,
+            "genre_ids": [
+                149,
+                138
+            ],
+            "category_id": 1,
+            "device_families": [
+                "mac",
+                "watch",
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.9,
+            "rating_count": 27198325,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                412983,
+                158975,
+                316083,
+                1057764,
+                25252520
+            ],
+            "top_in_apps": [
+                {
+                    "name": "高德数字资产9.9元产品",
+                    "price": "¥9.90",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产3元产品",
+                    "price": "¥3.00",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产8.8元产品",
+                    "price": "¥8.80",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产3.5元产品",
+                    "price": "¥3.50",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产5元产品",
+                    "price": "¥5.00",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产6元产品",
+                    "price": "¥6.00",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德语音讲解3元产品",
+                    "price": "¥3.00",
+                    "description": "大咖导游，金牌语音讲解，带你深度体验景区美景",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产5元产品",
+                    "price": "¥5.00",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产8.8元产品",
+                    "price": "¥8.80",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "高德数字资产3.8元产品",
+                    "price": "¥3.80",
+                    "description": "你的地图数字资产",
+                    "is_subscription": 0
+                }
+            ],
+            "languages": [
+                "简体中文",
+                "繁体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 149,
+                    "name": "导航",
+                    "category_id": 1
+                },
+                {
+                    "id": 138,
+                    "name": "生活",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 149,
+                "name": "导航",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "4v6umup6jovx2cg",
+            "market_id": 1,
+            "app_id": 333206289,
+            "name": "支付宝-便捷生活，一点就好",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/a8/f9/e3a8f970-b008-d552-b6d1-6309b874f2ec/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1024x1024.png",
+            "content_ratings": "4+",
+            "developer": {},
+            "release_time": 1255536000,
+            "last_release_time": 1741276800,
+            "version": "10.7.7",
+            "bundle_id": "com.alipay.iphoneclient",
+            "title": "",
+            "genre_id": 138,
+            "genre_ids": [
+                138,
+                144
+            ],
+            "category_id": 1,
+            "device_families": [
+                "watch",
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.2,
+            "rating_count": 1088548,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                121621,
+                56771,
+                75367,
+                115738,
+                719051
+            ],
+            "top_in_apps": [
+                {
+                    "name": "15元主题皮肤套装",
+                    "price": "¥15.00",
+                    "description": "支付宝主题皮肤套装，给你的支付宝换上新装，做个IP收藏家。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "8元的数字藏品",
+                    "price": "¥8.00",
+                    "description": "8元数字藏品一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "40元的数字藏品",
+                    "price": "¥40.00",
+                    "description": "40元数字藏品一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "18元的数字藏品",
+                    "price": "¥18.00",
+                    "description": "18元数字藏品一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "2元数字卡牌",
+                    "price": "¥2.00",
+                    "description": "2元数字卡牌一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "30元的数字藏品",
+                    "price": "¥30.00",
+                    "description": "30元数字藏品一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "25元的数字藏品",
+                    "price": "¥25.00",
+                    "description": "25元数字藏品一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "60元的数字藏品",
+                    "price": "¥60.00",
+                    "description": "60元数字藏品一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "2元的数字藏品",
+                    "price": "¥2.00",
+                    "description": "2元数字藏品一次性费用",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "7个宝石",
+                    "price": "¥1.00",
+                    "description": "App 内充值虚拟货币",
+                    "is_subscription": 0
+                }
+            ],
+            "languages": [
+                "简体中文",
+                "繁体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 138,
+                    "name": "生活",
+                    "category_id": 1
+                },
+                {
+                    "id": 144,
+                    "name": "财务",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 138,
+                "name": "生活",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "nzdu9u3ewrk3ptv",
+            "market_id": 1,
+            "app_id": 741292507,
+            "name": "小红书 – 你的生活指南",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/8c/5c/838c5c5e-a48b-563d-0ad1-6718d2acb2da/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1024x1024.png",
+            "content_ratings": "12+",
+            "developer": {},
+            "release_time": 1386172800,
+            "last_release_time": 1741795200,
+            "version": "8.74.2",
+            "bundle_id": "com.xingin.discover",
+            "title": "3亿人的生活经验，都在小红书",
+            "genre_id": 137,
+            "genre_ids": [
+                137,
+                139
+            ],
+            "category_id": 1,
+            "device_families": [
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.9,
+            "rating_count": 18720591,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                187734,
+                63904,
+                121432,
+                418726,
+                17928795
+            ],
+            "top_in_apps": [
+                {
+                    "name": "7薯币",
+                    "price": "¥1.00",
+                    "description": "小红书-标记我的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "42 薯币",
+                    "price": "¥6.00",
+                    "description": "小红书-找到你想要的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "756薯币",
+                    "price": "¥108.00",
+                    "description": "小红书-标记我的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "476 薯币",
+                    "price": "¥68.00",
+                    "description": "小红书-找到你想要的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "1386 薯币",
+                    "price": "¥198.00",
+                    "description": "小红书-找到你想要的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "455薯币",
+                    "price": "¥65.00",
+                    "description": "小红书-标记我的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "686 薯币",
+                    "price": "¥98.00",
+                    "description": "小红书-找到你想要的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "280 薯币",
+                    "price": "¥40.00",
+                    "description": "小红书-找到你想要的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "350薯币",
+                    "price": "¥50.00",
+                    "description": "小红书-标记我的生活",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "7薯币",
+                    "price": "¥1.00",
+                    "description": "小红书-标记我的生活",
+                    "is_subscription": 0
+                }
+            ],
+            "languages": [
+                "简体中文",
+                "繁体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 137,
+                    "name": "社交",
+                    "category_id": 1
+                },
+                {
+                    "id": 139,
+                    "name": "购物",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 137,
+                "name": "社交",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "4xoupuelmzwk2tl",
+            "market_id": 1,
+            "app_id": 444934666,
+            "name": "QQ",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/b3/1a/d8b31afb-f36c-0a17-5d12-0c3a9c02507c/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/1024x1024.png",
+            "content_ratings": "12+",
+            "developer": {},
+            "release_time": 1308758400,
+            "last_release_time": 1741276800,
+            "version": "9.1.55",
+            "bundle_id": "com.tencent.mqq",
+            "title": "QQ9全新上线，一起轻松做自己",
+            "genre_id": 137,
+            "genre_ids": [
+                137,
+                134
+            ],
+            "category_id": 1,
+            "device_families": [
+                "watch",
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 3.9,
+            "rating_count": 2223268,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                386712,
+                109488,
+                145934,
+                212705,
+                1368429
+            ],
+            "top_in_apps": [
+                {
+                    "name": "1个月黄钻（自动续费）",
+                    "price": "¥10.00",
+                    "description": "订阅1个月黄钻（自动续费）",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "超级会员",
+                    "price": "¥19.00",
+                    "description": "尊享QQ等级加速、超大群、个性化装扮等多项炫酷特权",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "会员3元宝石",
+                    "price": "¥3.00",
+                    "description": "用于购买会员3元宝石",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "1个月黄钻",
+                    "price": "¥12.00",
+                    "description": "12.00的价格订阅1个月黄钻使用权",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "1个月超级会员",
+                    "price": "¥25.00",
+                    "description": "25.00的价格订阅1个月超级会员使用权",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "100个阅币",
+                    "price": "¥1.00",
+                    "description": "1.00的价格购买100个阅币，阅币可以用来购买整本书、付费章节。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "1个月QQ会员",
+                    "price": "¥12.00",
+                    "description": "订阅1个月QQ会员使用权，并开启到期自动续订.",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "6元金豆套餐",
+                    "price": "¥6.00",
+                    "description": "6.00的价格购买6元金豆套餐",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "会员6元宝石",
+                    "price": "¥6.00",
+                    "description": "用于购买会员6元宝石",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "3个月黄钻",
+                    "price": "¥30.00",
+                    "description": "30.00的价格订阅3个月黄钻使用权",
+                    "is_subscription": 1
+                }
+            ],
+            "languages": [
+                "简体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 137,
+                    "name": "社交",
+                    "category_id": 1
+                },
+                {
+                    "id": 134,
+                    "name": "娱乐",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 137,
+                "name": "社交",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "nd2u6u3d1dq9dud",
+            "market_id": 1,
+            "app_id": 423084029,
+            "name": "美团-美好生活小帮手",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/d6/d0/38d6d073-a6d6-a23e-29b6-ddd1e5627cbe/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/1024x1024.png",
+            "content_ratings": "17+",
+            "developer": {},
+            "release_time": 1299945600,
+            "last_release_time": 1741708800,
+            "version": "12.30.401",
+            "bundle_id": "com.meituan.imeituan",
+            "title": "外卖美食买菜打车酒店火车票，用美团",
+            "genre_id": 138,
+            "genre_ids": [
+                138,
+                153
+            ],
+            "category_id": 1,
+            "device_families": [
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.5,
+            "rating_count": 1055024,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                89060,
+                16732,
+                25743,
+                65149,
+                858340
+            ],
+            "top_in_apps": [],
+            "languages": [
+                "简体中文",
+                "繁体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 138,
+                    "name": "生活",
+                    "category_id": 1
+                },
+                {
+                    "id": 153,
+                    "name": "旅游",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 138,
+                "name": "生活",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "492ududjqxzr9aj",
+            "market_id": 1,
+            "app_id": 440948110,
+            "name": "快手",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/c0/3b/d3c03bee-b706-bebb-faef-129765ecd3f7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/1024x1024.png",
+            "content_ratings": "17+",
+            "developer": {},
+            "release_time": 1309449600,
+            "last_release_time": 1741536000,
+            "version": "13.2.10",
+            "bundle_id": "com.jiangjia.gif",
+            "title": "拥抱每一种生活",
+            "genre_id": 132,
+            "genre_ids": [
+                132,
+                137
+            ],
+            "category_id": 1,
+            "device_families": [
+                "iphone",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.8,
+            "rating_count": 14513259,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                341475,
+                112555,
+                144496,
+                241213,
+                13673520
+            ],
+            "top_in_apps": [
+                {
+                    "name": "42快币",
+                    "price": "¥6.00",
+                    "description": "42快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "7快币",
+                    "price": "¥1.00",
+                    "description": "7快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "280快币",
+                    "price": "¥40.00",
+                    "description": "280快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "476快币",
+                    "price": "¥68.00",
+                    "description": "476快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "686快币",
+                    "price": "¥98.00",
+                    "description": "686快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "84快币",
+                    "price": "¥12.00",
+                    "description": "84快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "1386快币",
+                    "price": "¥198.00",
+                    "description": "1386快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "14快币",
+                    "price": "¥2.00",
+                    "description": "14快币，快币是快手官方的虚拟货币。可以使用快币在直播页面购买礼物。",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "付费内容5.8元",
+                    "price": "¥5.80",
+                    "description": "用于购买快手付费内容相关权益",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "付费内容14.8元",
+                    "price": "¥14.80",
+                    "description": "用于购买快手付费内容相关权益",
+                    "is_subscription": 0
+                }
+            ],
+            "languages": [
+                "简体中文",
+                "繁体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 132,
+                    "name": "摄影与录像",
+                    "category_id": 1
+                },
+                {
+                    "id": 137,
+                    "name": "社交",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 132,
+                "name": "摄影与录像",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "n6jupu5w5dlg2hw",
+            "market_id": 1,
+            "app_id": 590338362,
+            "name": "网易云音乐-数千万歌曲畅听",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ec/dd/8cecdd6f-19af-4615-60bc-ef881eb9eee2/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024.png",
+            "content_ratings": "17+",
+            "developer": {},
+            "release_time": 1358956800,
+            "last_release_time": 1741708800,
+            "version": "9.2.61",
+            "bundle_id": "com.netease.cloudmusic",
+            "title": "1.5亿高音质歌曲有声内容",
+            "genre_id": 141,
+            "genre_ids": [
+                141,
+                137
+            ],
+            "category_id": 1,
+            "device_families": [
+                "watch",
+                "iphone",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.6,
+            "rating_count": 1515420,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                104408,
+                22915,
+                39340,
+                112856,
+                1235901
+            ],
+            "top_in_apps": [
+                {
+                    "name": "连续包月黑胶VIP",
+                    "price": "¥15.00",
+                    "description": "尊享百万付费曲库免费下载、无损音质、付费电台、个性皮肤等多项黑胶VIP专属特权",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "连续包月黑胶VIP",
+                    "price": "¥15.00",
+                    "description": "尊享海量曲库畅听、歌曲下载、无损音质、个性皮肤、自定义铃声等多项黑胶VIP专属特权",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "黑胶VIP连续包月(新客专享)",
+                    "price": "¥15.00",
+                    "description": "网易云音乐黑胶VIP连续包月",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "黑胶VIP连续包月",
+                    "price": "¥15.00",
+                    "description": "网易云音乐黑胶VIP连续包月",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "连续包月音乐包",
+                    "price": "¥8.00",
+                    "description": "畅享百万付费曲库免费下载、极致无损音质等音乐特权，连续包月更省心",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "连续包月黑胶VIP促销",
+                    "price": "¥15.00",
+                    "description": "尊享千万付费曲库免费下载、无损音质、自定义铃声、个性皮肤等多项黑胶VIP专属特权",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "黑胶VIP连续包月",
+                    "price": "¥15.00",
+                    "description": "网易云音乐黑胶VIP连续包月",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "黑胶VIP首月5元",
+                    "price": "¥12.00",
+                    "description": "黑胶VIP优惠，首月5元",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "黑胶VIP连续包月",
+                    "price": "¥15.00",
+                    "description": "网易云音乐黑胶VIP连续包月",
+                    "is_subscription": 1
+                },
+                {
+                    "name": "黑胶VIP连续包月",
+                    "price": "¥15.00",
+                    "description": "网易云音乐黑胶VIP连续包月",
+                    "is_subscription": 1
+                }
+            ],
+            "languages": [
+                "简体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 141,
+                    "name": "音乐",
+                    "category_id": 1
+                },
+                {
+                    "id": 137,
+                    "name": "社交",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 141,
+                "name": "音乐",
+                "category_id": 1
+            }
+        },
+        {
+            "id": "ym0u2ulr7v3x9u5",
+            "market_id": 1,
+            "app_id": 387682726,
+            "name": "淘宝-万能的淘宝",
+            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/d3/5f/66d35f75-70cf-6c17-3c42-e1649ed5bcf4/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/1024x1024.png",
+            "content_ratings": "17+",
+            "developer": {},
+            "release_time": 1283529600,
+            "last_release_time": 1741622400,
+            "version": "10.47.10",
+            "bundle_id": "com.taobao.taobao4iphone",
+            "title": "",
+            "genre_id": 139,
+            "genre_ids": [
+                139,
+                138
+            ],
+            "category_id": 1,
+            "device_families": [
+                "iphone",
+                "realityDevice",
+                "ipad",
+                "ipod"
+            ],
+            "country_id": 75,
+            "rating": 4.1,
+            "rating_count": 1422928,
+            "price": 0,
+            "price_unit": "¥",
+            "status_id": 2,
+            "rating_count_list": [
+                202121,
+                59169,
+                74990,
+                127220,
+                959428
+            ],
+            "top_in_apps": [
+                {
+                    "name": "淘宝直播1元充值包",
+                    "price": "¥1.00",
+                    "description": "可兑换直播间礼物",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播6元充值包",
+                    "price": "¥6.00",
+                    "description": "可兑换直播间礼物",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播28元充值包",
+                    "price": "¥28.00",
+                    "description": "可兑换直播间礼物",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播88元充值包",
+                    "price": "¥88.00",
+                    "description": "可兑换直播间礼物",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播188元充值包",
+                    "price": "¥188.00",
+                    "description": "可兑换直播间礼物",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播388元充值包",
+                    "price": "¥388.00",
+                    "description": "可兑换直播间礼物",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播1388元充值包",
+                    "price": "¥1,388.00",
+                    "description": " 可兑换直播间礼物 ",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播1000元充值包",
+                    "price": "¥1,000.00",
+                    "description": "可兑换直播间礼物 ",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播100元充值包",
+                    "price": "¥100.00",
+                    "description": "可兑换直播间礼物",
+                    "is_subscription": 0
+                },
+                {
+                    "name": "淘宝直播6088元充值包",
+                    "price": "¥6,088.00",
+                    "description": "可兑换直播间礼物 ",
+                    "is_subscription": 0
+                }
+            ],
+            "languages": [
+                "俄文",
+                "哈萨克文",
+                "简体中文",
+                "英语"
+            ],
+            "mode_type": "",
+            "genres": [
+                {
+                    "id": 139,
+                    "name": "购物",
+                    "category_id": 1
+                },
+                {
+                    "id": 138,
+                    "name": "生活",
+                    "category_id": 1
+                }
+            ],
+            "genre": {
+                "id": 139,
+                "name": "购物",
+                "category_id": 1
+            }
+        }
+    ]
+}
